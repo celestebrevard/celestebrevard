@@ -1958,7 +1958,7 @@ p {
 }
 
 .timeline-page .timeline-item .event.event-description-left {
-  text-align: left;
+  text-align: right;
   margin-right: 15px;
 }
 
@@ -2922,7 +2922,7 @@ dd {
     margin-left: auto;
   }
   .timeline-page .timeline-item .event-description-left {
-    text-align: left !important;
+    text-align: right !important;
     margin-left: 0 !important;
     margin-right: 15px !important;
   }

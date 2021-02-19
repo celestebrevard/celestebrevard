@@ -1961,7 +1961,7 @@ p {
 }
 
 .timeline-page .timeline-item .event.event-description-left {
-  text-align: left;
+  text-align: right;
   margin-right: 15px;
 }
 
